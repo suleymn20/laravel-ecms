@@ -145,7 +145,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598556875094</updated>
-      <workItem from="1598556876204" duration="1022000" />
+      <workItem from="1598556876204" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="İlk laravel kurulumu v1">
       <created>1598557899684</created>
@@ -154,7 +154,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598557899684</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="İlk laravel kurulumu v1">
+      <created>1598557959904</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598557959904</updated>
+    </task>
+    <task id="LOCAL-00003" summary="İlk laravel kurulumu v1">
+      <created>1598558024452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1598558024452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,13 +179,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="İlk laravel kurulumu v1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598557764661">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598558366235">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598557764661" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598558003355">
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598558366235" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598558156369">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598558003355" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598558156369" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598558161592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1598558161592" />
   </component>
 </project>
