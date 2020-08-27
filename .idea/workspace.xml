@@ -164,4 +164,14 @@
     <MESSAGE value="İlk laravel kurulumu v1" />
     <option name="LAST_COMMIT_MESSAGE" value="İlk laravel kurulumu v1" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1598557764661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598557764661" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598558003355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598558003355" />
+  </component>
 </project>
