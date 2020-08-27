@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b353f1a-7ebf-4422-afb6-a14c3525ddb5" name="Default Changelist" comment="" />
+    <list default="true" id="0b353f1a-7ebf-4422-afb6-a14c3525ddb5" name="Default Changelist" comment="İlk laravel kurulumu v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +10,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -117,6 +120,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ghBJnoy80nVC3OtkNbjeCN4MN4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -124,7 +128,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auth_ogretici" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -141,11 +145,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598556875094</updated>
-      <workItem from="1598556876204" duration="645000" />
+      <workItem from="1598556876204" duration="1022000" />
     </task>
+    <task id="LOCAL-00001" summary="İlk laravel kurulumu v1">
+      <created>1598557899684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598557899684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="İlk laravel kurulumu v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="İlk laravel kurulumu v1" />
   </component>
 </project>
