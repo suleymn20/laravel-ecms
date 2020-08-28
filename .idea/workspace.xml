@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b353f1a-7ebf-4422-afb6-a14c3525ddb5" name="Default Changelist" comment="İlk laravel kurulumu v1s">
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/dashboard.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/default/index.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/layout.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/layouts/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/layouts/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/layouts/master.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/layouts/menu.blade.php" afterDir="false" />
+    <list default="true" id="0b353f1a-7ebf-4422-afb6-a14c3525ddb5" name="Default Changelist" comment="tema parçaladım (kendimce)">
+      <change afterPath="$PROJECT_DIR$/resources/views/backend/settings/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,6 +147,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\suley\Desktop\ecms\database\migrations" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598558024452</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tema parçaladım (kendimce)">
+      <created>1598561615321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598561615321</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,7 +204,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="İlk laravel kurulumu v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="İlk laravel kurulumu v1" />
+    <MESSAGE value="tema parçaladım (kendimce)" />
+    <option name="LAST_COMMIT_MESSAGE" value="tema parçaladım (kendimce)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="129" y="54" key="DiffContextDialog" timestamp="1598558812546">
@@ -212,10 +220,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598558709366" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598558828769">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598561630477">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598558828769" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598561630477" />
     <state x="293" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598560213849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
