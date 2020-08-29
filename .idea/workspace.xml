@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b353f1a-7ebf-4422-afb6-a14c3525ddb5" name="Default Changelist" comment="tema parçaladım (kendimce)">
-      <change afterPath="$PROJECT_DIR$/resources/views/backend/settings/index.blade.php" afterDir="false" />
+    <list default="true" id="0b353f1a-7ebf-4422-afb6-a14c3525ddb5" name="Default Changelist" comment="setting sayfası eklendi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/layouts/header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/layouts/header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/backend/settings/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/backend/settings/index.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598561615321</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="setting sayfası eklendi">
+      <created>1598651946484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598651946484</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="İlk laravel kurulumu v1" />
     <MESSAGE value="tema parçaladım (kendimce)" />
-    <option name="LAST_COMMIT_MESSAGE" value="tema parçaladım (kendimce)" />
+    <MESSAGE value="setting sayfası eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting sayfası eklendi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="129" y="54" key="DiffContextDialog" timestamp="1598558812546">
@@ -220,14 +227,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="511" y="84" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598558709366" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598561630477">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1598708428648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598561630477" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1598708428648" />
     <state x="293" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598560213849">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="293" y="42" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1598560213849" />
+    <state x="532" y="97" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1598651940825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="532" y="97" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1598651940825" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598558161592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
